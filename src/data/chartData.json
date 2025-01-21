@@ -1,0 +1,12 @@
+{
+    "chartData": [
+      { "month": "Jan", "sales": 1000, "revenue": 5000 },
+      { "month": "Feb", "sales": 1500, "revenue": 7500 },
+      { "month": "Mar", "sales": 1200, "revenue": 6000 },
+      { "month": "Apr", "sales": 1800, "revenue": 9000 },
+      { "month": "May", "sales": 2000, "revenue": 10000 },
+      { "month": "Jun", "sales": 2500, "revenue": 12500 }
+    ]
+  }
+  
+  
