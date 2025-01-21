@@ -34,7 +34,7 @@ export default function Testimonials() {
                 </div>
               </CardHeader>
               <CardContent>
-                <p className="text-gray-700">"{testimonial.testimonial}"</p>
+                <p className="text-gray-700">{testimonial.testimonial}</p>
               </CardContent>
             </Card>
           ))}
